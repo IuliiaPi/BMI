@@ -1,3 +1,3 @@
 #BMI
 
-bmi
+Body Mass Index
